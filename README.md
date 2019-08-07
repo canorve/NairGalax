@@ -23,5 +23,5 @@ To guess an entire directory
 
 ## Note
 
- This is just a learning experiment. Please do not take seriously. 
-
+* This is just a learning experiment. Please do not take seriously. 
+* for "any_path" use the full path of the file.
